@@ -1,0 +1,4 @@
+{
+    "name" : "graphql server",
+    "description" : "build simple nodejs server api with graphql, apollo-server"
+}
